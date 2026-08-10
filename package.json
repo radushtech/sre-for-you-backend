@@ -10,7 +10,7 @@
     "cors": "^2.8.5",
     "razorpay": "^2.9.2",
     "@supabase/supabase-js": "^2.39.0",
-    "crypto": "^1.0.1"
+    "crypto": "^1.0.1",
     "express-rate-limit": "^7.1.5"
   }
 }
